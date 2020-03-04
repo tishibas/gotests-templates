@@ -10,8 +10,8 @@ Add following settings in VSCode.
 {
     "go.generateTestsFlags": [
         "-template_dir",
-        "/path/to/github.com/tishibas/gotests-templates"
-    ]"
+        "/path/to/github.com/tishibas/gotests-templates/templates"
+    ]
 }
 ```
 
